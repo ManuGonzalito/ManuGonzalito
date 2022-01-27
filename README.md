@@ -1,9 +1,9 @@
 <h1 align="center">Hello there, 👋🏻 I'm Manu!</h1>
 <h3 align="center">I'm a PHP Backend Developer.</h3>
 
-- 🔭 I’m currently working as a Freelancer, currently on 2 Proyects.
+- 🔭 I’m currently working on **CENEDI** as *PHP Developer*.
 - 🌱 I’m currently learning **English** to enroll into **BYU-Idaho** in a *Tech Career*.
-- ✨ I wish to learn **React, Vue, Python and C#**.
+- ✨ I wish to learn **React, Vue, Python and Node.js**.
 - 📄 Know about my experiences on my [Portafolio](https://manugonzalito.github.io/portafolio/en/index.html).
 
 I'm 23 years old and I'm passionate about programming! Since March 2020 I have not stopped learning and loving this profession more. I'm very good working as a team, and I interact quickly with others. Honesty, Integrity and Moral Values govern my life, my study and my work. I have great ability to follow directives, learn quickly, plan and organize to adapt to different work schedules.
