@@ -6,7 +6,7 @@
 - ✨ I wish to learn **React, Vue, Python and Node.js**.
 - 📄 Know about my experiences on my [Portafolio](https://manugonzalito.github.io/new-portafolio/en/).
 
-I'm 23 years old and I'm passionate about programming! Since March 2020 I have not stopped learning and loving this profession more. I'm very good working as a team, and I interact quickly with others. Honesty, Integrity and Moral Values govern my life, my study and my work. I have great ability to follow directives, learn quickly, plan and organize to adapt to different work schedules.
+I'm passionate about programming! Since March 2020 I have not stopped learning and loving this profession more. I'm very good working as a team, and I interact quickly with others. Honesty, Integrity and Moral Values govern my life, my study and my work. I have great ability to follow directives, learn quickly, plan and organize to adapt to different work schedules.
 
 ### Contact with me!
 <p align="left">
