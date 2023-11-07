@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, 👋🏻 I'm Manu!</h1>
 <h3 align="center">I'm a PHP Backend Developer.</h3>
 
-- 🔭 I’m currently working on **CENEDI** as *PHP Developer*.
+- 🔭 I’m currently looking for new oportunities!.
 - 🌱 I’m currently learning **English** to enroll into **BYU-Idaho** in a *Tech Career*.
 - ✨ I wish to learn **React, Vue, Python and Node.js**.
 - 📄 Know about my experiences on my [Portafolio](https://manugonzalito.github.io/new-portafolio/en/).
