@@ -1,16 +1,17 @@
 <h1 align="center">Hello there, 👋🏻 I'm Manu!</h1>
-<h3 align="center">I'm a PHP Backend Developer.</h3>
+<h3 align="center">I'm a Fullstack Software Engineer.</h3>
 
 - 🔭 I’m currently looking for new oportunities!.
-- 🌱 I’m currently learning **English** to enroll into **BYU-Idaho** in a *Tech Career*.
-- ✨ I wish to learn **React, Vue, Python and Node.js**.
+- 🌱 I’m currently studying a *Bachelor's Degree* in **Applied Technology** at **Brigham Young University-Idaho**.
+- ✨ I wish to learn **Rust**.
 - 📄 Know about my experiences on my [Portafolio](https://manugonzalito.github.io/new-portafolio/en/).
 
-I'm passionate about programming! Since March 2020 I have not stopped learning and loving this profession more. I'm very good working as a team, and I interact quickly with others. Honesty, Integrity and Moral Values govern my life, my study and my work. I have great ability to follow directives, learn quickly, plan and organize to adapt to different work schedules.
+I am a passionate developer user-oriented solutions with 4 years of experience in several languages and technologies, worked on projects for international companies and different teams. I am good in teamwork using agile methodologies to plan, organize myself and adapt me to different projects. I love challenges and learn modern technologies to push me to improve myself.
 
 ### Contact with me!
 <p align="left">
 <a href="https://linkedin.com/in/manu-ale-gonzalez98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin Profile" height="30" width="40" /></a>
+<a href="mailto:manu.ale.gonzalez@gmail.com"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
