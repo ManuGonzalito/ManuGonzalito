@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for new oportunities!.
 - 🌱 I’m currently studying a *Bachelor's Degree* in **Applied Technology** at **Brigham Young University-Idaho**.
 - ✨ I'm currently learning **Rust** and **C#**.
-- 📄 Know about my experiences on my [Portafolio](https://manugonzalito.github.io/new-portafolio/en/).
+- 📄 Know about my experiences on my [Portfolio](https://manugonzalez-portfolio.netlify.app/).
 
 I am a passionate developer user-oriented solutions with **4 years of experience** in several languages and technologies, worked on projects for international companies and different teams. 
 
